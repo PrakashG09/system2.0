@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "mrlesmithjr",
+  "name": "system",
+  "version": "0.2.0",
+  "authors": [
+   "Larry Smith Jr. <mrlesmithjr@gmail.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "system"
+  ],
+  "description": "Ansible collection of system related roles",
+  "license": [],
+  "license_file": "LICENSE.md",
+  "dependencies": {},
+  "repository": "https://github.com/mrlesmithjr/ansible-collection-system",
+  "documentation": "https://github.com/mrlesmithjr/ansible-collection-system/docs",
+  "homepage": "https://github.com/mrlesmithjr/ansible-collection-system",
+  "issues": "https://github.com/mrlesmithjr/ansible-collection-system/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "0d739e49cbc5a24604308edc09275392ec9d197285987db113d3d5c6d0285723",
+  "format": 1
+ },
+ "format": 1
+}
